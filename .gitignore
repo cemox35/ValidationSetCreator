@@ -1,5 +1,10 @@
-/Dataset/
+/Dataset/clean_trainset_wav
 /.idea/pythonProject.iml
 /.idea/vcs.xml
 /.idea/modules.xml
 /.idea/misc.xml
+/Dataset/clean_valset_wav/
+/Dataset/noisy_trainset_wav/
+/Dataset/noisy_valset_wav/
+/Dataset/clean_trainset_wav.zip
+/Dataset/noisy_trainset_wav.zip
